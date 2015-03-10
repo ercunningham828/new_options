@@ -1,0 +1,3 @@
+== README ==
+
+This rails app was created with the command "rails new new_options -S -J".  Which means that it skipped creating the sprockets and JavaScript files.
